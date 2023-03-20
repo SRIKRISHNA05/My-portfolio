@@ -546,7 +546,7 @@ img {
 }
 
 .skills_html{
-  width: 60%;
+  width: 50%;
 }
 
 .skills_css{
@@ -558,13 +558,13 @@ img {
 }
 
 .skills_nodejs{
-  width: 15%;
+  width: 10%;
 }
 .skills_python{
-  width: 75%;
+  width: 70%;
 }
 .skills_Mongodb{
-  width: 15%;
+  width: 10%;
 }
 
 
